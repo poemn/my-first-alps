@@ -28,6 +28,7 @@
     <descriptor id="BlogPosting" def="https://schema.org/BlogPosting" title="Blog Post" tag="item">
         <descriptor href="#id"/>
         <descriptor href="#dateCreated"/>
+        <descriptor href="#dateUpdated" />
         <descriptor href="#articleBody"/>
         <descriptor href="#goBlog"/>
     </descriptor>
